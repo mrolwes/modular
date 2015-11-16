@@ -1,0 +1,36 @@
+ol {
+  width: 230px;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 2em;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none
+}
+
+img {}
+
+span {
+  color: black;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.compare {
+  width: 35%;
+  padding: 15px;
+  border: 1px solid black;
+  font-family: 'Fjalla One', sans-serif;
+  font-style: italic;
+  text-align: center;
+}
+
+.price {
+  text-decoration: line-through;
+ }
+
+.sale {
+  color: red;
+  font-weight: bold;
+}
